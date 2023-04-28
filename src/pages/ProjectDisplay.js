@@ -12,11 +12,12 @@ export default function ProjectDisplay() {
     <div className='project'>
       <h1> {project.name} </h1>
       <img src={project.image} />
-      <GitHubIcon />
       <p>
         <b>Skills:</b> {project.skills} 
       </p>
+      <a href={project.url} target='_blank'>
+        <GitHubIcon />
+      </a>
     </div>
   );
 }
-

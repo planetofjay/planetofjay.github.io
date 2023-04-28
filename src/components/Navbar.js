@@ -3,7 +3,7 @@ import { Link, useLocation } from 'react-router-dom';
 import '../styles/Navbar.css';
 import ReorderIcon from '@material-ui/icons/Reorder';
 
-function Navbar() {
+export default function Navbar() {
   const [expandNavbar, setExpendNavbar] = useState(false);
 
   const location = useLocation();
@@ -31,5 +31,3 @@ function Navbar() {
     </div>
   );
 }
-
-export default Navbar

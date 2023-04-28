@@ -7,33 +7,39 @@ import Proj6 from '../assets/proj6.png';
 
 export const ProjectList = [
   {
-    name: 'thejaejinlee Magazine Website',
+    name: 'thejaejinlee Magazine App',
     image: Proj1,
     skills: 'React, Redux, Sass, Firebase',
+    url: 'https://github.com/PlanetofJay/withStyling',
   },
   {
     name: 'Weather Component',
     image: Proj2,
     skills: 'JavaScript, HTML, CSS',
+    url: 'https://github.com/PlanetofJay/weather-app',
   },
   {
-    name: 'Social Media Website',
+    name: 'Social Media App',
     image: Proj3,
     skills: 'React, Redux, Sass, Firebase',
+    url: 'https://github.com/PlanetofJay/social-media-app1',
   },
   {
-    name: 'WindowAdvisor Mobile Application',
+    name: 'WindowAdvisor Mobile App',
     image: Proj4,
     skills: 'React Native, JavaScript',
+    url: 'https://github.com/PlanetofJay/windowAdvisor',
   },
   {
-    name: 'Tetris Application',
+    name: 'Tetris Game',
     image: Proj5,
     skills: 'JavaScript',
+    url: 'https://github.com/PlanetofJay/playTetris',
   },
   {
     name: 'Interactive Rating Component',
     image: Proj6,
     skills: 'Vite, React',
+    url: 'https://github.com/PlanetofJay/interactive-rating',
   },
 ];

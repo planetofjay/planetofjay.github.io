@@ -62,12 +62,12 @@ export default function Experience() {
           <h4 className='vertical-timeline-element-subtitle'>
             Associate's Degree
           </h4>
-          <p>High School Diploma</p>
+          <p>Web Development and Internet Applications</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement 
           className='vertical-timeline-element--education'
-          date='2023 - Current'
+          date='2023 - Present'
           iconStyle={{ background: '#e9d35b', color: '#fff'}}
           icon={<WorkIcon />}
         >

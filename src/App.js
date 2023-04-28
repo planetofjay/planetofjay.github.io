@@ -1,13 +1,13 @@
 import './App.css';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
+import Navbar from './components/Navbar';
 import Home from './pages/Home';
 import Projects from './pages/Projects';
 import ProjectDisplay from './pages/ProjectDisplay';
 import Experience from './pages/Experience';
-import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 
-function App() {
+export default function App() {
   return (
     <div className='App'>
       <Router>
@@ -23,5 +23,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
