@@ -14,7 +14,7 @@ function Footer() {
       </div>
       <p> &copy; 2023 JaejinLee. All Rights Reserved.</p>
     </div>
-  )
+  );
 }
 
 export default Footer

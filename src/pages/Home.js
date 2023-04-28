@@ -4,7 +4,7 @@ import EmailIcon from '@material-ui/icons/Email';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import '../styles/Home.css';
 
-function Home() {
+export default function Home() {
   return (
     <div className='home'>
       <div className='about'>
@@ -44,7 +44,5 @@ function Home() {
         </ol>
       </div>
     </div>
-  )
+  );
 }
-
-export default Home
