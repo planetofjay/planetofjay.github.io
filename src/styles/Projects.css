@@ -9,13 +9,11 @@
 .projects .projectTitle {
   text-align: center;
   color: #3e497a;
-  font-size: 60px;
+  font-size: 40px;
   font-weight: bolder;
 }
 
 .projectList {
-  width: 70vw;
-  height: auto;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   place-items: center;
