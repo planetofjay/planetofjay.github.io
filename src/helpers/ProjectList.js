@@ -9,25 +9,31 @@ export const ProjectList = [
   {
     name: 'thejaejinlee Magazine Website',
     image: Proj1,
+    skills: 'React, Redux, Sass, Firebase',
   },
   {
-    name: 'Weather Application',
+    name: 'Weather Component',
     image: Proj2,
+    skills: 'JavaScript, HTML, CSS',
   },
   {
     name: 'Social Media Website',
     image: Proj3,
+    skills: 'React, Redux, Sass, Firebase',
   },
   {
     name: 'WindowAdvisor Mobile Application',
     image: Proj4,
+    skills: 'React Native, JavaScript',
   },
   {
     name: 'Tetris Application',
     image: Proj5,
+    skills: 'JavaScript',
   },
   {
     name: 'Interactive Rating Component',
     image: Proj6,
+    skills: 'Vite, React',
   },
 ];
