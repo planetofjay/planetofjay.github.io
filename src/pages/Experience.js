@@ -20,7 +20,7 @@ export default function Experience() {
           <h4 className='vertical-timeline-element-subtitle'>
             Toronto, ON - remote
           </h4>
-          <p>assigned with tasks and assignments that focus primarily on
+          <p>Assigned with tasks and assignments that focus primarily on
             developing new skills and gaining a deeper understanding.</p>
         </VerticalTimelineElement>
 
@@ -51,7 +51,7 @@ export default function Experience() {
           <h4 className='vertical-timeline-element-subtitle'>
             Dublin, Ireland / Paris, France
           </h4>
-          <p>Had exhibitions in Seoul and Belgium, published own photography book using Indesign.</p>
+          <p>Had exhibitions in Seoul and Belgium, made and published own photography book.</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
