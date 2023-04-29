@@ -13,13 +13,13 @@ export default function Home() {
           <p>
             A frontend developer with a passion for learning and creating.
           </p>
-          <a href='https://github.com/PlanetofJay' target='_blank'>
+          <a href='https://github.com/PlanetofJay' target='_blank' rel="noreferrer">
             <GithubIcon />
           </a>
           <a href='mailto:jae44dv@gmail.com'>
             <EmailIcon />
           </a>
-          <a href='https://linkedin.com/in/planetofjay/' target='_blank'>
+          <a href='https://linkedin.com/in/planetofjay/' target='_blank' rel="noreferrer">
             <LinkedInIcon />
           </a>
         </div>
