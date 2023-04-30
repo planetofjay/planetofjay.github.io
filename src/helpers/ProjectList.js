@@ -31,10 +31,10 @@ export const ProjectList = [
     url: 'https://github.com/PlanetofJay/windowAdvisor',
   },
   {
-    name: 'Tetris Game',
+    name: 'Notes App',
     image: Proj5,
-    skills: 'JavaScript',
-    url: 'https://github.com/PlanetofJay/playTetris',
+    skills: 'React, CSS',
+    url: 'https://github.com/PlanetofJay/my-note',
   },
   {
     name: 'Interactive Rating Component',
