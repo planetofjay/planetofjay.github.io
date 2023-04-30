@@ -31,20 +31,20 @@ export default function Home() {
           <li className='item'>
             <h2>Front-End</h2>
             <span>
-              React, Redux, HTML, CSS, Sass, React Native
+              React, Redux, HTML, CSS
             </span>
           </li>          
 
           <li className='item'>
             <h2>Back-End</h2>
             <span>
-              Firebase, Axios
+              Firebase, Axios, MySQL
             </span>
           </li>     
 
           <li className='item'>
             <h2>Languages</h2>
-            <span>JavaScript</span>
+            <span>JavaScript, TypeScript</span>
           </li>
 
         </ol>
