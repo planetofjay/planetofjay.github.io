@@ -7,7 +7,7 @@ import Proj6 from '../assets/proj6.png';
 
 export const ProjectList = [
   {
-    name: 'thejaejinlee Magazine App',
+    name: 'Magazine App',
     image: Proj1,
     skills: 'React, Redux, Sass, Firebase',
     url: 'https://github.com/PlanetofJay/withStyling',

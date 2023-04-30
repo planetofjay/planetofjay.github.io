@@ -18,7 +18,7 @@ export default function Footer() {
           <LinkedInIcon />
         </a>
       </div>
-      <p> &copy; 2023 JaejinLee. All Rights Reserved.</p>
+      <p> &copy;2023 Jaejin Lee. All Rights Reserved.</p>
     </div>
   );
 }
