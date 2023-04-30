@@ -11,7 +11,7 @@ export default function Home() {
         <h2>Hi, My Name is Jaejin</h2>
         <div className='prompt'>
           <p>
-            A frontend developer with a passion for learning and creating.
+            a Web Developer with a passion for learning and creating.
           </p>
           <a href='https://github.com/PlanetofJay' target='_blank' rel="noreferrer">
             <GithubIcon />
@@ -31,20 +31,20 @@ export default function Home() {
           <li className='item'>
             <h2>Front-End</h2>
             <span>
-              ReactJS, Redux, HTML, CSS, Sass, React Native
+              React, Redux, HTML, CSS, Sass, React Native
             </span>
           </li>          
 
           <li className='item'>
             <h2>Back-End</h2>
             <span>
-              MySQL, Firebase, Axios
+              Firebase, Axios
             </span>
           </li>     
 
           <li className='item'>
             <h2>Languages</h2>
-            <span>JavaScript, TypeScript</span>
+            <span>JavaScript</span>
           </li>
 
         </ol>
