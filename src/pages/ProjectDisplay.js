@@ -11,7 +11,7 @@ export default function ProjectDisplay() {
   return (
     <div className='project'>
       <h1> {project.name} </h1>
-      <img src={project.image} alt='project-images'/>
+      <img src={project.image} alt='projects' className='project-image'/>
       <p>
         <b>Skills:</b> {project.skills} 
       </p>

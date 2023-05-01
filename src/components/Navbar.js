@@ -4,12 +4,12 @@ import '../styles/Navbar.css';
 import ReorderIcon from '@material-ui/icons/Reorder';
 
 export default function Navbar() {
-  const [expandNavbar, setExpendNavbar] = useState(false);
+  const [expandNavbar, setExpandNavbar] = useState(false);
 
   const location = useLocation();
 
   useEffect(() => {
-    setExpendNavbar(false);
+    setExpandNavbar(false);
   }, [location]);
 
   return (
@@ -17,7 +17,7 @@ export default function Navbar() {
       <div className='toggleButton'>
         <button 
           onClick={() => {
-            setExpendNavbar((prev) => !prev);
+            setExpandNavbar((prev) => !prev);
           }}
         > 
           <ReorderIcon /> 
