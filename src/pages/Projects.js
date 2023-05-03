@@ -11,14 +11,14 @@ export default function Projects() {
         {ProjectList.map((project, index) => {
           return (
             <ProjectItem
-              key={index} 
-              id={index} 
-              name={project.name} 
-              image={project.image} 
+              key={index}
+              id={index}
+              name={project.name}
+              image={project.image}
             />
           );
         })}
       </div>
-    </div> 
+    </div>
   );
 }
