@@ -9,7 +9,6 @@ import Footer from './components/Footer';
 
 export default function App() {
   return (
-    // TODO _ Scroll to top on reload
     <div className='App'>
       <Router>
         <Navbar />

@@ -8,12 +8,12 @@
 }
 
 .project h1 {
-  margin-top: 50px;
+  margin-top: 11vw;
   color: #3e497a;
   font-size: 30px;
 }
 .project img {
-  width: 400px;
+  height: 70%;
   border-radius: 10px;
 }
 
