@@ -7,10 +7,10 @@ import Proj6 from '../assets/proj6.png';
 
 export const ProjectList = [
   {
-    name: 'Magazine App',
+    name: 'GOtravel Website',
     image: Proj1,
-    skills: 'React, Redux, Sass, Firebase',
-    url: 'https://github.com/PlanetofJay/withStyling',
+    skills: 'React, CSS',
+    url: 'https://github.com/PlanetofJay/react-website-1',
   },
   {
     name: 'Weather Component',
