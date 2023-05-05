@@ -24,7 +24,7 @@ export const ProjectList = [
     image: Proj3,
     skills: 'React, Redux, Sass, Firebase',
     repo: 'https://github.com/PlanetofJay/social-media-app1',
-    url: 'http://planetofjay.github.io/social-media-app1'
+    url: 'http://planetofjay.github.io/social-media-app1/',
   },
   {
     name: 'WindowAdvisor Mobile App',
