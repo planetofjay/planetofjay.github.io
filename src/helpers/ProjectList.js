@@ -18,6 +18,7 @@ export const ProjectList = [
     image: Proj2,
     skills: 'JavaScript, HTML, CSS',
     repo: 'https://github.com/PlanetofJay/weather-app',
+    url: 'https://planetofjay.github.io/weather-app/',
   },
   {
     name: 'Social Media App',
