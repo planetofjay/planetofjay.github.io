@@ -1,7 +1,6 @@
 .navbar {
   background-color: #21325e;
   height: 100px;
-  display: flex;
   justify-content: center;
   align-items: center;
   font-size: 1.2rem;
@@ -33,7 +32,6 @@
   align-items: center;
   justify-content: flex-end;
 }
-
 .toggleButton svg {
   font-size: 50px;
 }
@@ -47,6 +45,10 @@
 
 #open {
   height: 100vh;
+  left: 0;
+  opacity: 1;
+  transition: all 0.5s ease;
+  z-index: 1;
 }
 
 #open .links {
@@ -86,9 +88,5 @@
 
   #open {
     height: 100px;
-  }
-
-  #open .links {
-    flex-direction: row;
   }
 }
