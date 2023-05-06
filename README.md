@@ -1,3 +1,9 @@
+# Project - Personal Website
+
+<img width="90%" src="images/home.png">
+<img width="90%" src="images/projects.png">
+<img width="90%" src="images/experience.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
