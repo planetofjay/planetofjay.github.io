@@ -10,7 +10,7 @@
 
 .project h1 {
   margin-top: 11vw;
-  color: #3e497a;
+  color: #2e2f32;
   font-size: 30px;
 }
 .project img {
@@ -20,13 +20,13 @@
 
 .project p {
   font-size: 40px;
-  color: #3e497a;
+  color: #2e2f32;
 }
 
 .project svg {
   margin-top: 10px;
   font-size: 60px;
-  color: #3e497a;
+  color: #2e2f32;
 }
 
 .project-icon {

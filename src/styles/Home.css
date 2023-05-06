@@ -10,7 +10,7 @@ video {
   width: 100%;
   align-items: center;
   font-family: "Arial", sans-serif;
-  color: #3e497a;
+  color: #2e2f32;
 }
 
 .about {
@@ -52,7 +52,7 @@ video {
 }
 
 .skills h1 {
-  color: #3e497a;
+  color: #2e2f32;
 }
 
 .skills .list {
