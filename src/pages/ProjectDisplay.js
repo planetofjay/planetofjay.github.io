@@ -14,7 +14,7 @@ export default function ProjectDisplay() {
       <h1> {project.name} </h1>
       <img src={project.image} alt='projects' />
       <p>
-        <b>Skills:</b> {project.skills} 
+        <b>Skills:</b> {project.skills}
       </p>
       <div className='project-icon'>
         <a href={project.repo} target='_blank' rel='noreferrer'>
@@ -25,5 +25,6 @@ export default function ProjectDisplay() {
         </a>
       </div>
     </div>
+
   );
 }

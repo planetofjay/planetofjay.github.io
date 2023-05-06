@@ -3,11 +3,14 @@ import GithubIcon from '@material-ui/icons/GitHub';
 import EmailIcon from '@material-ui/icons/Email';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import '../styles/Home.css';
+import homeVideo from './../video/page.mp4';
 
 export default function Home() {
   return (
     <div className='home'>
       <div className='about'>
+      <video src={homeVideo} autoPlay loop muted />
+
         <h2>Hi, My Name is Jaejin</h2>
         <div className='prompt'>
           <p>
