@@ -28,21 +28,22 @@ export const ProjectList = [
     url: 'http://planetofjay.github.io/social-media-app1/',
   },
   {
-    name: 'WindowAdvisor Mobile App',
-    image: Proj4,
-    skills: 'React Native, JavaScript',
-    repo: 'https://github.com/PlanetofJay/windowAdvisor',
-  },
-  {
     name: 'Notes App',
-    image: Proj5,
+    image: Proj4,
     skills: 'React, CSS',
     repo: 'https://github.com/PlanetofJay/my-note',
+    url: 'https://planetofjay.github.io/my-note/',
   },
   {
     name: 'Interactive Rating Component',
-    image: Proj6,
+    image: Proj5,
     skills: 'Vite, React',
     repo: 'https://github.com/PlanetofJay/interactive-rating',
+  },
+  {
+    name: 'WindowAdvisor Mobile App',
+    image: Proj6,
+    skills: 'React Native, JavaScript',
+    repo: 'https://github.com/PlanetofJay/windowAdvisor',
   },
 ];
