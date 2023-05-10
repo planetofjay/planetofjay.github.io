@@ -38,6 +38,7 @@ video {
 .prompt svg {
   font-size: 60px;
   margin: 5px;
+  padding: 1rem;
   color: white;
 }
 

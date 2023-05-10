@@ -1,12 +1,12 @@
 import React from 'react';
 import GithubIcon from '@material-ui/icons/GitHub';
-import EmailIcon from '@material-ui/icons/Email';
 import CVIcon from '@material-ui/icons/FileCopyTwoTone';
 import Resume from '../assets/Resume.pdf';
 import '../styles/Home.css';
 import homeVideo from './../video/page.mp4';
 
 export default function Home() {
+  
   return (
     <div className='home'>
       <div className='about'>
@@ -19,9 +19,6 @@ export default function Home() {
           </p>
           <a href='https://github.com/PlanetofJay' target='_blank' rel="noreferrer">
             <GithubIcon />
-          </a>
-          <a href='mailto:jae44dv@gmail.com'>
-            <EmailIcon />
           </a>
           <a href={Resume} target='_blank' rel="noreferrer">
             <CVIcon />
