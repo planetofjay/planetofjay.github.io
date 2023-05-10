@@ -1,7 +1,8 @@
 import React from 'react';
 import GithubIcon from '@material-ui/icons/GitHub';
 import EmailIcon from '@material-ui/icons/Email';
-import LinkedInIcon from '@material-ui/icons/LinkedIn';
+import CVIcon from '@material-ui/icons/FileCopyTwoTone';
+import Resume from '../assets/Resume.pdf';
 import '../styles/Home.css';
 import homeVideo from './../video/page.mp4';
 
@@ -22,8 +23,8 @@ export default function Home() {
           <a href='mailto:jae44dv@gmail.com'>
             <EmailIcon />
           </a>
-          <a href='https://linkedin.com/in/planetofjay/' target='_blank' rel="noreferrer">
-            <LinkedInIcon />
+          <a href={Resume} target='_blank' rel="noreferrer">
+            <CVIcon />
           </a>
         </div>
       </div>
