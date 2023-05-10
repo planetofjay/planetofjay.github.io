@@ -20,7 +20,7 @@ export default function Experience() {
           <h4 className='vertical-timeline-element-subtitle'>
             Toronto, ON - remote
           </h4>
-          <p>Developing new skills and gaining a deeper understanding of Software Development.</p>
+          <p>Developing WordPress skills and gaining a deeper understanding of Software Development.</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
@@ -48,9 +48,9 @@ export default function Experience() {
             Photographer - Freelance
           </h3>
           <h4 className='vertical-timeline-element-subtitle'>
-            Dublin, Ireland
+            Dublin, Ireland && Seoul, South Korea
           </h4>
-          <p>Exhibitions in Seoul and Belgium, self-published book of street photography.</p>
+          <p>Exhibitions in Seoul and Belgium, self-published book of the photography.</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
