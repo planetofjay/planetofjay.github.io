@@ -7,18 +7,18 @@ import Proj6 from '../assets/proj6.png';
 
 export const ProjectList = [
   {
-    name: 'GOtravel Website',
+    name: 'Spotify Clone App',
     image: Proj1,
+    skills: 'React, Redux, Tailwind CSS, API', 
+    repo: 'https://github.com/PlanetofJay/react-spotify',
+    url: 'https://planetofjay.github.io/react-spotify/',
+  },
+  {
+    name: 'GOtravel Website',
+    image: Proj2,
     skills: 'React, CSS',
     repo: 'https://github.com/PlanetofJay/react-website-1',
     url: 'https://planetofjay.github.io/react-website-1/',
-  },
-  {
-    name: 'Weather Component',
-    image: Proj2,
-    skills: 'JavaScript, HTML, CSS',
-    repo: 'https://github.com/PlanetofJay/weather-app',
-    url: 'https://planetofjay.github.io/weather-app/',
   },
   {
     name: 'Social Media App',
@@ -28,17 +28,18 @@ export const ProjectList = [
     url: 'http://planetofjay.github.io/social-media-app1/',
   },
   {
-    name: 'Notes App',
+    name: 'Weather Component',
     image: Proj4,
+    skills: 'JavaScript, HTML, CSS',
+    repo: 'https://github.com/PlanetofJay/weather-app',
+    url: 'https://planetofjay.github.io/weather-app/',
+  },
+  {
+    name: 'Notes App',
+    image: Proj5,
     skills: 'React, CSS',
     repo: 'https://github.com/PlanetofJay/my-note',
     url: 'https://planetofjay.github.io/my-note/',
-  },
-  {
-    name: 'Interactive Rating Component',
-    image: Proj5,
-    skills: 'Vite, React',
-    repo: 'https://github.com/PlanetofJay/interactive-rating',
   },
   {
     name: 'WindowAdvisor Mobile App',
