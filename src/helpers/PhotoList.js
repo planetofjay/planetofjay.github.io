@@ -19,92 +19,74 @@ import Untitled17 from '../assets/photography/untitled-17.JPG';
 
 export const PhotoList = [
   {
-    name: 'Untitled.',
     image: Untitled00,
     location: 'Dublin, Ireland, 2018.', 
   },
   {
-    name: 'Untitled.',
     image: Untitled01,
     location: 'Dublin, Ireland, 2018.', 
   },
   {
-    name: 'Untitled.',
     image: Untitled02,
     location: 'Dublin, Ireland, 2017.', 
   },
   {
-    name: 'Untitled.',
     image: Untitled03,
     location: 'Dublin, Ireland, 2017.', 
   },
   {
-    name: 'Untitled.',
     image: Untitled04,
     location: 'Paris, France, 2017.', 
   },
   {
-    name: 'Untitled.',
     image: Untitled05,
     location: 'Paris, France, 2017.', 
   },
   {
-    name: 'Untitled.',
     image: Untitled06,
     location: 'Paris, France, 2017.', 
   },
   {
-    name: 'Untitled.',
     image: Untitled07,
     location: 'Dublin, Ireland, 2017.', 
   },
   {
-    name: 'Untitled.',
     image: Untitled08,
     location: 'Brussels, Belgium, 2017.', 
   },
   {
-    name: 'Untitled.',
     image: Untitled09,
     location: 'Bray, Ireland, 2017.', 
   },
   {
-    name: 'Untitled.',
     image: Untitled10,
     location: 'Seoul, South Korea, 2019.', 
   },
   {
-    name: 'Untitled.',
     image: Untitled11,
     location: 'Bray, Ireland, 2017.', 
   },
   {
-    name: 'Untitled.',
     image: Untitled12,
     location: "Mek'ele, Ethiopia, 2018.", 
   },
   {
-    name: 'Untitled.',
     image: Untitled13,
     location: 'Vancouver, Canada, 2020.', 
   },
   {
-    name: 'Untitled.',
     image: Untitled14,
     location: 'Howth, Ireland, 2017.', 
   },
   {
-    name: 'Untitled.',
     image: Untitled15,
     location: 'Dublin, Ireland, 2017.', 
   },
   {
-    name: 'Untitled.',
     image: Untitled16,
     location: 'Katima Mulilo, Namibia, 2018.', 
   },
   {
-    name: 'Untitled.',
     image: Untitled17,
     location: 'Steglitz-Zehlendorf, Germany, 2017.', 
   },

@@ -14,7 +14,6 @@ export default function Photos() {
             <PhotoItem
               key={index}
               id={index}
-              name={photo.name}
               image={photo.image}
             />
           );

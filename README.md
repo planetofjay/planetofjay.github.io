@@ -3,6 +3,7 @@
 <img width="90%" src="images/home.png">
 <img width="90%" src="images/projects.png">
 <img width="90%" src="images/experience.png">
+<img width="90%" src="images/photography.png">
 
 # Getting Started with Create React App
 

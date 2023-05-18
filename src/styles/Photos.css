@@ -45,10 +45,9 @@
 }
 
 .photoItem .picImage {
-  border-top-left-radius: 15px;
-  border-top-right-radius: 15px;
+  border-radius: 15px;
   width: 100%;
-  height: 200px;
+  height: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
