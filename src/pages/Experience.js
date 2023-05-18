@@ -65,7 +65,7 @@ export default function Experience() {
           <h4 className='vertical-timeline-element-subtitle'>
             Incomplete
           </h4>
-          <p>Urban Environment Design</p>
+          <p>Architecture</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
