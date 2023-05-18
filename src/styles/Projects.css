@@ -24,7 +24,7 @@
 /* MENU ITEM STYLING */
 
 .projectItem {
-  background-color: rgb(216, 218, 219);
+  background-color: rgb(194, 197, 200);
   border-radius: 15px;
   width: 300px;
   height: 300px;
@@ -50,6 +50,7 @@
 
 .projectItem h1 {
   font-size: 25px;
+  color: #43454a;
 }
 
 @media only screen and (max-width: 1300px) {

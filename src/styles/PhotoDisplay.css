@@ -37,16 +37,16 @@
 @media only screen and (max-width: 800px) {
   .photo {
     grid-template-columns: 1fr;
-    margin-top: 5vw;
+    margin-top: -3rem;
   }
 }
 
 @media only screen and (max-width: 800px) {
   .photo img {
-    height: 40%;
+    height: 50%;
   }
   .photo p {
-    font-size: 32px;
+    font-size: 25px;
     text-align: center;
   }
 }

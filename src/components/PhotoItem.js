@@ -12,10 +12,10 @@ export default function PhotoItem({ name, image, id }) {
       }}
     >
       <div 
-        style={{ backgroundImage: `url(${image})`}}
+        style={{ backgroundImage: `url(${image})` }}
         className='picImage'
       />
-      <h1>{name}</h1>
+      <h1> {name} </h1>
     </div>
   )
 }
