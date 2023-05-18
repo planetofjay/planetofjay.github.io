@@ -48,9 +48,9 @@ export default function Experience() {
             Photographer - Freelance
           </h3>
           <h4 className='vertical-timeline-element-subtitle'>
-            Dublin, Ireland && Seoul, South Korea
+            Around the world
           </h4>
-          <p>Exhibitions in Seoul and Belgium, self-published book of the photography.</p>
+          <p>Exhibitions in South Korea and Belgium, published and sold own photography book.</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
