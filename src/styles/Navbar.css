@@ -1,5 +1,6 @@
 .navbar {
-  background-color: #2e2f32;
+  background-color: rgba(39, 36, 36, 0.4);
+  backdrop-filter: blur(50px);
   height: 100px;
   justify-content: center;
   align-items: center;
