@@ -15,7 +15,7 @@ export default function Footer() {
         <a href='mailto:jae44dv@gmail.com'>
           <EmailIcon />
         </a>
-        <a href='https://instagram.com/ofjaylee/' target='_blank' rel="noreferrer">
+        <a href='https://instagram.com/ofjayl_/' target='_blank' rel="noreferrer">
           <InstagramIcon />
         </a>
         <a href='https://facebook.com/jae4f/' target='_blank' rel="noreferrer">
