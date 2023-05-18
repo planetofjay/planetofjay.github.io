@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div className='home'>
       <div className='about'>
-        <img src={background} alt='background' />
+        <img src={background} alt='background' className='homebg'/>
 
         <h2>Hi, My Name is Jaejin L.</h2>
         <div className='prompt'>

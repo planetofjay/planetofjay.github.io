@@ -1,8 +1,9 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 
-export default function ProjectItem({ image, name, id }) {
+export default function ProjectItem({ name, image, id }) {
   const navigate = useNavigate();
+  
   return (
     <div 
       className='projectItem'

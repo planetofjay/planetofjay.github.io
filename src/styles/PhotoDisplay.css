@@ -1,0 +1,52 @@
+.photo {
+  width: 100%;
+  height: calc(100vh - 100px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: -2rem;
+  margin-bottom: 200px;
+  background-color: #a5a5ac;
+}
+
+.photo h1 {
+  margin-top: 11vw;
+  color: #2e2f32;
+  font-size: 30px;
+}
+
+.photo img {
+  height: 80%;
+  border-radius: 10%;
+  box-shadow: 0px 30px 10px rgba(0, 0, 0, 0.2);
+}
+
+.photo p {
+  font-size: 32px;
+  color: #2e2f32;
+}
+
+@media only screen and (max-width: 1300px) {
+  .photo {
+    grid-template-columns: 1fr 1fr;
+    margin-top: 3vw;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .photo {
+    grid-template-columns: 1fr;
+    margin-top: 5vw;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .photo img {
+    height: 40%;
+  }
+  .photo p {
+    font-size: 32px;
+    text-align: center;
+  }
+}

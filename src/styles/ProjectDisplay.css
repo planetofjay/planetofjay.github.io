@@ -6,6 +6,7 @@
   align-items: center;
   flex-direction: column;
   margin-bottom: 200px;
+  background-color: #a5a5ac;
 }
 
 .project h1 {
@@ -39,12 +40,15 @@
 @media only screen and (max-width: 1300px) {
   .project {
     grid-template-columns: 1fr 1fr;
+    margin-top: 3vw;
+
   }
 }
 
 @media only screen and (max-width: 800px) {
   .project {
     grid-template-columns: 1fr;
+    margin-top: 5vw;
   }
 }
 
@@ -53,7 +57,8 @@
     height: 40%;
   }
   .project p {
-    font-size: 32px;
+    font-size: 25px;
+    text-align: center;
   }
   .project-icon {
     display: flex;
