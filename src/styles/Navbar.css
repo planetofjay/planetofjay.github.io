@@ -21,8 +21,8 @@
 .navbar a {
   color: white;
   text-decoration: none;
-  margin: 20px;
-  font-size: 25px;
+  margin: 5rem;
+  font-size: 20px;
 }
 
 .toggleButton {
@@ -72,12 +72,17 @@
 @media only screen and (max-width: 900px) {
   .navbar a {
     width: 70px;
+    margin: 3rem;
   }
 }
 
 @media only screen and (max-width: 600px) {
   .toggleButton {
     display: flex;
+  }
+  .navbar a {
+    width: 70px;
+    margin: 2rem;
   }
   #close a {
     display: none;
@@ -87,6 +92,10 @@
 @media only screen and (min-width: 600px) {
   .toggleButton {
     display: none;
+  }
+
+  .navbar a {
+    width: 100px;
   }
 
   .hiddenLinks {

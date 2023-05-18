@@ -26,18 +26,18 @@ video {
 
 .about h2 {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 80px;
+  font-size: 60px;
   color: #e9d35b;
   height: 50px;
 }
 
 .about .prompt {
   width: 40%;
-  font-size: 30px;
+  font-size: 25px;
 }
 .prompt svg {
-  font-size: 60px;
-  margin: 5px;
+  font-size: 50px;
+  margin: 1px;
   padding: 1rem;
   color: white;
 }
