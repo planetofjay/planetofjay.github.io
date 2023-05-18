@@ -3,14 +3,14 @@ import GithubIcon from '@material-ui/icons/GitHub';
 import CVIcon from '@material-ui/icons/FileCopyTwoTone';
 import Resume from '../assets/Resume.pdf';
 import '../styles/Home.css';
-import homeVideo from './../video/page.mp4';
+import background from './../assets/background.jpg';
 
 export default function Home() {
 
   return (
     <div className='home'>
       <div className='about'>
-        <video src={homeVideo} autoPlay loop muted />
+        <img src={background} alt='background' />
 
         <h2>Hi, My Name is Jaejin L.</h2>
         <div className='prompt'>

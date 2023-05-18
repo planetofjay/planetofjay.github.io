@@ -6,12 +6,12 @@ import WorkIcon from '@material-ui/icons/Work';
 
 export default function Experience() {
   return (
-    <div className='experience'>
+    <div className='experience' style={{backgroundColor: '#a5a5ac'}}>
       <VerticalTimeline lineColor='#3e497a'>
         <VerticalTimelineElement
           className='vertical-timeline-element--education'
           date='2023 - Present'
-          iconStyle={{ background: '#e9d35b', color: '#fff' }}
+          iconStyle={{ background: '#3e497a', color: '#fff' }}
           icon={<WorkIcon />}
         >
           <h3 className='vertical-timeline-element-title'>
@@ -26,7 +26,7 @@ export default function Experience() {
         <VerticalTimelineElement
           className='vertical-timeline-element--education'
           date='2021 - 2023'
-          iconStyle={{ background: '#3e497a', color: '#fff' }}
+          iconStyle={{ background: '#a5a5ac', color: '#fff' }}
           icon={<SchoolIcon />}
         >
           <h3 className='vertical-timeline-element-title'>
@@ -41,7 +41,7 @@ export default function Experience() {
         <VerticalTimelineElement
           className='vertical-timeline-element--education'
           date='2017 - 2020'
-          iconStyle={{ background: '#e9d35b', color: '#fff' }}
+          iconStyle={{ background: '#3e497a', color: '#fff' }}
           icon={<WorkIcon />}
         >
           <h3 className='vertical-timeline-element-title'>
@@ -56,7 +56,7 @@ export default function Experience() {
         <VerticalTimelineElement
           className='vertical-timeline-element--education'
           date='2013 - 2015'
-          iconStyle={{ background: '#3e497a', color: '#fff' }}
+          iconStyle={{ background: '#a5a5ac', color: '#fff' }}
           icon={<SchoolIcon />}
         >
           <h3 className='vertical-timeline-element-title'>
@@ -71,7 +71,7 @@ export default function Experience() {
         <VerticalTimelineElement
           className='vertical-timeline-element--education'
           date='2009 - 2012'
-          iconStyle={{ background: '#3e497a', color: '#fff' }}
+          iconStyle={{ background: '#a5a5ac', color: '#fff' }}
           icon={<SchoolIcon />}
         >
           <h3 className='vertical-timeline-element-title'>

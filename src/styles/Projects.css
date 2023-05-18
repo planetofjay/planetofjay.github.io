@@ -1,4 +1,5 @@
 .projects {
+  background-color: #a5a5ac;
   width: 100%;
   height: auto;
   display: flex;
@@ -23,6 +24,7 @@
 /* MENU ITEM STYLING */
 
 .projectItem {
+  background-color: rgb(216, 218, 219);
   border-radius: 15px;
   width: 300px;
   height: 300px;
