@@ -15,12 +15,17 @@ export default function Experience() {
           icon={<WorkIcon />}
         >
           <h3 className='vertical-timeline-element-title'>
-            Software Developer Intern - GAOTek Inc.
+            Assistant Team Leader - GAOTek Inc.
           </h3>
           <h4 className='vertical-timeline-element-subtitle'>
             Toronto, ON - remote
           </h4>
-          <p>Developing WordPress skills and gaining a deeper understanding of Software Development.</p>
+          <ul>
+          <li>Monitored and evaluated employee performance, providing feedback for improvement.</li>
+            <li>Managed team of 10+ employees, including scheduling, training and performance reviews.</li>
+            <li>Coordinated and executed daily operations of 10+ employees.</li>
+            <li>Trained new employees on company procedures and policies.</li>
+          </ul>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
@@ -50,7 +55,11 @@ export default function Experience() {
           <h4 className='vertical-timeline-element-subtitle'>
             Around the world
           </h4>
-          <p>Exhibitions in South Korea and Belgium, published and sold own photography book.</p>
+          <ul>
+            <li>Exhibitions in South Korea and Belgium.</li>
+            <li>Published and sold own photography book.</li>
+            <li>Designed a book using Adobe InDesign.</li>
+          </ul>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
