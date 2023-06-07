@@ -35,13 +35,8 @@ export default function Home() {
           </li>
 
           <li className='item'>
-            <h2>Front-End</h2>
-            <span>React, Redux, React Native, HTML, CSS</span>
-          </li>
-
-          <li className='item'>
-            <h2>Back-End</h2>
-            <span>MySQL</span>
+            <h2>Frameworks</h2>
+            <span>Node.js, React.js, jQuery, Express</span>
           </li>
 
           <li className='item'>
