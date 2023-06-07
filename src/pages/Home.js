@@ -30,18 +30,28 @@ export default function Home() {
         <h1>Skills</h1>
         <ol className='list'>
           <li className='item'>
-            <h2>Languages</h2>
+            <h2>Language</h2>
             <span>JavaScript</span>
           </li>
 
           <li className='item'>
-            <h2>Frameworks</h2>
-            <span>Node.js, React.js, jQuery, Express</span>
+            <h2>Library</h2>
+            <span>React.js</span>
           </li>
 
           <li className='item'>
-            <h2>Design-Tool</h2>
-            <span>Adobe XD, Adobe Illustrator, WordPress</span>
+            <h2>Framework</h2>
+            <span>Node.js, jQuery, Express</span>
+          </li>
+
+          <li className='item'>
+            <h2>CMS</h2>
+            <span>WordPress</span>
+          </li>
+
+          <li className='item'>
+            <h2>Design</h2>
+            <span>Adobe XD, Adobe Illustrator</span>
           </li>
         </ol>
       </div>
