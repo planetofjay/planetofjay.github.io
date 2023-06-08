@@ -1,5 +1,5 @@
 .projects {
-  background-color: #a5a5ac;
+  background-color: #000;
   width: 100%;
   height: auto;
   display: flex;
@@ -23,11 +23,11 @@
   width: 300px;
   height: 300px;
   margin: 40px;
-  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 3px 15px rgba(255, 255, 255, 0.211);
   text-align: center;
 }
 .projectItem:hover {
-  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.5);
+  box-shadow: 0px 3px 15px rgba(255, 255, 255, 0.808);
   transition: 0.3s ease-in;
   cursor: pointer;
 }

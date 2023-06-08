@@ -6,8 +6,8 @@ import WorkIcon from '@material-ui/icons/Work';
 
 export default function Experience() {
   return (
-    <div className='experience' style={{backgroundColor: '#a5a5ac'}}>
-      <VerticalTimeline lineColor='#000'>
+    <div className='experience' style={{backgroundColor: '#000'}}>
+      <VerticalTimeline lineColor='#fff'>
         <VerticalTimelineElement
           className='vertical-timeline-element--education'
           date='2023 - Present'

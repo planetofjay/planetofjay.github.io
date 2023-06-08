@@ -5,23 +5,21 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin-top: -2rem;
-  margin-bottom: 200px;
-  background-color: #a5a5ac;
+  margin-top: -3rem;
+  margin-bottom: 150px;
+  background-color: #000;
 }
 
 .photo img {
   margin-top: 10vw;
   height: 70%;
-  border-style: solid;
-  border-width: 10px;
-  border-color: #000;
-  box-shadow: 0px 30px 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 10px 20px 10px rgba(255, 255, 255, 0.196);
 }
 
 .photo p {
-  font-size: 28px;
-  color: #2e2f32;
+  margin: 3rem;
+  font-size: 20px;
+  color: #fff;
 }
 
 @media only screen and (max-width: 1300px) {
