@@ -4,7 +4,7 @@
   height: 100%;
   position: fixed;
   z-index: -1;
-  opacity: 0.4;
+  opacity: 0.3;
 }
 
 /* video {
@@ -61,8 +61,8 @@
   align-items: center;
 }
 
-.skills h1 {
-  color: #2e2f32;
+.skills h2 {
+  color: #000;
 }
 
 .skills .list {

@@ -7,17 +7,11 @@
   align-items: center;
   flex-direction: column;
 }
-.photos .photoTitle {
-  text-align: center;
-  color: #2e2f32;
-  font-size: 40px;
-  font-weight: bolder;
-}
 
 .photos .photoSubtitle {
-  text-align: center;
-  color: #3e3f41;
-  margin-top: 0;
+  text-align: left;
+  color: #000;
+  margin-top: 3rem;
 }
 
 .photoList {
@@ -30,7 +24,6 @@
 /* MENU ITEM STYLING */
 
 .photoItem {
-  background-color: rgb(194, 197, 200);
   border-radius: 15px;
   width: 300px;
   height: 300px;

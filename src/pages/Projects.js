@@ -6,7 +6,6 @@ import '../styles/Projects.css';
 export default function Projects() {
   return (
     <div className='projects'>
-      <h1 className='projectTitle'>Personal Projects</h1>
       <div className='projectList'>
         {ProjectList.map((project, index) => {
           return (

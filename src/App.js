@@ -8,11 +8,13 @@ import Experience from './pages/Experience';
 import Photos from './pages/Photos';
 import PhotoDisplay from './pages/PhotoDisplay';
 import Footer from './components/Footer';
+import ScrollToTop from './components/ScrollToTop';
 
 export default function App() {
   return (
     <div className='App'>
       <Router>
+        <ScrollToTop />
         <Navbar />
         <Routes>
           <Route path='/' element={<Home />} />

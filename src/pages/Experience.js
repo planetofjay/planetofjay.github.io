@@ -7,11 +7,11 @@ import WorkIcon from '@material-ui/icons/Work';
 export default function Experience() {
   return (
     <div className='experience' style={{backgroundColor: '#a5a5ac'}}>
-      <VerticalTimeline lineColor='#3e497a'>
+      <VerticalTimeline lineColor='#000'>
         <VerticalTimelineElement
           className='vertical-timeline-element--education'
           date='2023 - Present'
-          iconStyle={{ background: '#3e497a', color: '#fff' }}
+          iconStyle={{ background: '#000', color: '#fff' }}
           icon={<WorkIcon />}
         >
           <h3 className='vertical-timeline-element-title'>
@@ -21,9 +21,8 @@ export default function Experience() {
             Toronto, ON - remote
           </h4>
           <ul>
-          <li>Monitored and evaluated employee performance, providing feedback for improvement.</li>
+            <li>Monitored and evaluated employee performance, providing feedback for improvement using WordPress.</li>
             <li>Managed team of 10+ employees, including scheduling, training and performance reviews.</li>
-            <li>Coordinated and executed daily operations of 10+ employees.</li>
             <li>Trained new employees on company procedures and policies.</li>
           </ul>
         </VerticalTimelineElement>
@@ -38,15 +37,15 @@ export default function Experience() {
             Fanshawe College, London, Ontario
           </h3>
           <h4 className='vertical-timeline-element-subtitle'>
-            Associate's Degree
+            Associate in Science (A.S.)
           </h4>
-          <p>Web Development and Internet Applications</p>
+          <p>Majored in Web Development and Internet Applications</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
           className='vertical-timeline-element--education'
           date='2017 - 2020'
-          iconStyle={{ background: '#3e497a', color: '#fff' }}
+          iconStyle={{ background: '#000', color: '#fff' }}
           icon={<WorkIcon />}
         >
           <h3 className='vertical-timeline-element-title'>
@@ -74,7 +73,7 @@ export default function Experience() {
           <h4 className='vertical-timeline-element-subtitle'>
             Incomplete
           </h4>
-          <p>Architecture</p>
+          <p>Majored in Architecture</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement

@@ -7,18 +7,13 @@
   align-items: center;
   flex-direction: column;
 }
-.projects .projectTitle {
-  text-align: center;
-  color: #2e2f32;
-  font-size: 40px;
-  font-weight: bolder;
-}
 
 .projectList {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   place-items: center;
-  margin-bottom: 200px;
+  margin-bottom: 6rem;
+  margin-top: 6rem;
 }
 
 /* MENU ITEM STYLING */
