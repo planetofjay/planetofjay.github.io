@@ -11,10 +11,10 @@ export default function ProjectDisplay() {
 
   return (
     <div className='project'>
-      <h1> {project.name} </h1>
+      <h2> {project.name} </h2>
       <img src={project.image} alt='projects' />
       <p>
-        <b>Skills:</b> {project.skills}
+        Skills: {project.skills}
       </p>
       <div className='project-icon'>
         <a href={project.repo} target='_blank' rel='noreferrer'>

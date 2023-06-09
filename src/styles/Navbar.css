@@ -1,13 +1,12 @@
 .navbar {
-  background-color: #000;
+  background-color: #000000b9;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   height: 100px;
   justify-content: center;
   align-items: center;
   position: sticky;
   top: 0;
   z-index: 999;
-  border-style:solid;
-  border-bottom-color: #c4c4c0;
 }
 
 .links {
@@ -20,7 +19,7 @@
 }
 
 .navbar a {
-  color: #fff;
+  color: #ffffffbf;
   text-decoration: none;
   margin: 5rem;
   font-size: 18px;

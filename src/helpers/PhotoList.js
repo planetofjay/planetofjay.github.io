@@ -20,74 +20,74 @@ import Untitled17 from '../assets/photography/untitled-17.JPG';
 export const PhotoList = [
   {
     image: Untitled00,
-    location: 'Dublin, Ireland, 2018.', 
+    location: 'Dublin, Ireland, 2018', 
   },
   {
     image: Untitled01,
-    location: 'Dublin, Ireland, 2018.', 
+    location: 'Dublin, Ireland, 2018', 
   },
   {
     image: Untitled02,
-    location: 'Dublin, Ireland, 2017.', 
+    location: 'Dublin, Ireland, 2017', 
   },
   {
     image: Untitled03,
-    location: 'Dublin, Ireland, 2017.', 
+    location: 'Dublin, Ireland, 2017', 
   },
   {
     image: Untitled04,
-    location: 'Paris, France, 2017.', 
+    location: 'Paris, France, 2017', 
   },
   {
     image: Untitled05,
-    location: 'Paris, France, 2017.', 
+    location: 'Paris, France, 2017', 
   },
   {
     image: Untitled06,
-    location: 'Paris, France, 2017.', 
+    location: 'Paris, France, 2017', 
   },
   {
     image: Untitled07,
-    location: 'Dublin, Ireland, 2017.', 
+    location: 'Dublin, Ireland, 2017', 
   },
   {
     image: Untitled08,
-    location: 'Brussels, Belgium, 2017.', 
+    location: 'Brussels, Belgium, 2017', 
   },
   {
     image: Untitled09,
-    location: 'Bray, Ireland, 2017.', 
+    location: 'Bray, Ireland, 2017', 
   },
   {
     image: Untitled10,
-    location: 'Seoul, South Korea, 2019.', 
+    location: 'Seoul, South Korea, 2019', 
   },
   {
     image: Untitled11,
-    location: 'Bray, Ireland, 2017.', 
+    location: 'Bray, Ireland, 2017', 
   },
   {
     image: Untitled12,
-    location: "Mek'ele, Ethiopia, 2018.", 
+    location: "Mek'ele, Ethiopia, 2018", 
   },
   {
     image: Untitled13,
-    location: 'Vancouver, Canada, 2020.', 
+    location: 'Vancouver, Canada, 2020', 
   },
   {
     image: Untitled14,
-    location: 'Howth, Ireland, 2017.', 
+    location: 'Howth, Ireland, 2017', 
   },
   {
     image: Untitled15,
-    location: 'Dublin, Ireland, 2017.', 
+    location: 'Dublin, Ireland, 2017', 
   },
   {
     image: Untitled16,
-    location: 'Katima Mulilo, Namibia, 2018.', 
+    location: 'Katima Mulilo, Namibia, 2018', 
   },
   {
     image: Untitled17,
-    location: 'Steglitz-Zehlendorf, Germany, 2017.', 
+    location: 'Steglitz-Zehlendorf, Germany, 2017', 
   },
 ];

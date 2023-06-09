@@ -10,7 +10,7 @@ export default function PhotoDisplay() {
   return (
     <div className='photo'>
       <img src={photo.image} alt='photos' />
-      <p><i>{photo.location}</i></p>
+      <p>{photo.location}</p>
     </div>
   );
 }

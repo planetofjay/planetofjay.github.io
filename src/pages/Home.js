@@ -18,6 +18,8 @@ export default function Home() {
           <p>
             a Web Developer with a passion for learning, creating, solving, and developing.
           </p>
+        </div>
+        <div className='icon'>
           <a href='https://github.com/PlanetofJay' target='_blank' rel="noreferrer">
             <GithubIcon />
           </a>
@@ -39,7 +41,7 @@ export default function Home() {
           </li>
 
           <li className='item'>
-            <h2>Other</h2>
+            <h2>Tools</h2>
             <span>WordPress | Adobe XD | Adobe Illustrator</span>
           </li>
         </ol>

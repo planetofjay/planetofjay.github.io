@@ -6,6 +6,7 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .projectList {
@@ -18,12 +19,11 @@
 
 /* MENU ITEM STYLING */
 .projectItem {
-  background-color: rgb(194, 197, 200);
+  background-color: rgb(24, 24, 24);
   border-radius: 15px;
   width: 300px;
   height: 300px;
   margin: 40px;
-  box-shadow: 0px 3px 15px rgba(255, 255, 255, 0.211);
   text-align: center;
 }
 .projectItem:hover {
@@ -43,8 +43,10 @@
 }
 
 .projectItem h1 {
-  font-size: 25px;
-  color: #43454a;
+  margin-top: 10%;
+  font-size: 20px;
+  font-weight: 200;
+  color: #ffffffbf;
 }
 
 @media only screen and (max-width: 1300px) {

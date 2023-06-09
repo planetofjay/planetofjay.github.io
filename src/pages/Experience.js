@@ -6,31 +6,31 @@ import WorkIcon from '@material-ui/icons/Work';
 
 export default function Experience() {
   return (
-    <div className='experience' style={{backgroundColor: '#000'}}>
-      <VerticalTimeline lineColor='#fff'>
+    <div className='experience' style={{ backgroundColor: '#a5a5ac' }}>
+      <VerticalTimeline lineColor='#ffffffbf'>
         <VerticalTimelineElement
           className='vertical-timeline-element--education'
           date='2023 - Present'
-          iconStyle={{ background: '#000', color: '#fff' }}
+          iconStyle={{ background: '#000', color: '#ffffffbf' }}
           icon={<WorkIcon />}
         >
           <h3 className='vertical-timeline-element-title'>
-            Assistant Team Leader - GAOTek Inc.
+            Software Developer Internship - GAOTek Inc.
           </h3>
           <h4 className='vertical-timeline-element-subtitle'>
             Toronto, ON - remote
           </h4>
           <ul>
-            <li>Monitored and evaluated employee performance, providing feedback for improvement using WordPress.</li>
-            <li>Managed team of 10+ employees, including scheduling, training and performance reviews.</li>
-            <li>Trained new employees on company procedures and policies.</li>
+            <li>Created several small applications for SEO with WordPress</li>
+            <li>Managed employees of including scheduling, training and performance reviews</li>
+            <li>Trained new employees on company procedures and policies</li>
           </ul>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
           className='vertical-timeline-element--education'
           date='2021 - 2023'
-          iconStyle={{ background: '#a5a5ac', color: '#fff' }}
+          iconStyle={{ background: '#8787a4', color: '#ffffffbf' }}
           icon={<SchoolIcon />}
         >
           <h3 className='vertical-timeline-element-title'>
@@ -39,53 +39,56 @@ export default function Experience() {
           <h4 className='vertical-timeline-element-subtitle'>
             Associate in Science (A.S.)
           </h4>
-          <p>Majored in Web Development and Internet Applications</p>
+          <ul>
+            <li>Majored in Web Development and Internet Applications</li>
+          </ul>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
           className='vertical-timeline-element--education'
           date='2017 - 2020'
-          iconStyle={{ background: '#000', color: '#fff' }}
+          iconStyle={{ background: '#000', color: '#ffffffbf' }}
           icon={<WorkIcon />}
         >
           <h3 className='vertical-timeline-element-title'>
-            Photographer - Freelance
+            Street Photographer - Freelance
           </h3>
           <h4 className='vertical-timeline-element-subtitle'>
-            Around the world
+            Everywhere
           </h4>
           <ul>
-            <li>Exhibitions in South Korea and Belgium.</li>
-            <li>Published and sold own photography book.</li>
-            <li>Designed a book using Adobe InDesign.</li>
+            <li>Exhibitions in South Korea and Belgium</li>
+            <li>Published and sold own photography book</li>
+            <li>Designed a book using Adobe InDesign</li>
           </ul>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
           className='vertical-timeline-element--education'
           date='2013 - 2015'
-          iconStyle={{ background: '#a5a5ac', color: '#fff' }}
+          iconStyle={{ background: '#8787a4', color: '#ffffffbf' }}
           icon={<SchoolIcon />}
         >
           <h3 className='vertical-timeline-element-title'>
             Induk University, Seoul, South Korea
           </h3>
-          <h4 className='vertical-timeline-element-subtitle'>
-            Incomplete
-          </h4>
-          <p>Majored in Architecture</p>
+          <ul>
+            <li>Majored in Architecture</li>
+          </ul>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
           className='vertical-timeline-element--education'
           date='2009 - 2012'
-          iconStyle={{ background: '#a5a5ac', color: '#fff' }}
+          iconStyle={{ background: '#8787a4', color: '#ffffffbf' }}
           icon={<SchoolIcon />}
         >
           <h3 className='vertical-timeline-element-title'>
             Sangmyung High School, Seoul, South Korea
           </h3>
-          <p>High School Diploma</p>
+          <ul>
+            <li>High School Diploma</li>
+          </ul>
         </VerticalTimelineElement>
       </VerticalTimeline>
     </div>

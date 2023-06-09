@@ -6,11 +6,12 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .photos .photoSubtitle {
   text-align: left;
-  color: #fff;
+  color: #ffffffbf;
   margin-top: 3rem;
 }
 
@@ -18,7 +19,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   place-items: center;
-  margin-bottom: 200px;
+  margin-bottom: 6rem;
 }
 
 /* MENU ITEM STYLING */
@@ -28,7 +29,6 @@
   width: 300px;
   height: 300px;
   margin: 40px;
-  box-shadow: 0px 3px 15px rgba(255, 255, 255, 0.211);
   text-align: center;
 }
 .photoItem:hover {

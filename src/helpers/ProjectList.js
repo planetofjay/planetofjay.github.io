@@ -9,21 +9,21 @@ export const ProjectList = [
   {
     name: 'Spotify Clone App',
     image: Proj1,
-    skills: 'React, Redux, Tailwind CSS, API', 
+    skills: 'React.js, Redux, Tailwind CSS', 
     repo: 'https://github.com/PlanetofJay/react-spotify',
     url: 'https://planetofjay.github.io/react-spotify/',
   },
   {
     name: 'GOtravel Website',
     image: Proj2,
-    skills: 'React, CSS',
+    skills: 'React.js, CSS',
     repo: 'https://github.com/PlanetofJay/react-website-1',
     url: 'https://planetofjay.github.io/react-website-1/',
   },
   {
     name: 'Social Media App',
     image: Proj3,
-    skills: 'React, Redux, Sass, Firebase',
+    skills: 'React.js, Redux, Sass, Firebase',
     repo: 'https://github.com/PlanetofJay/social-media-app1',
     url: 'http://planetofjay.github.io/social-media-app1/',
   },
@@ -37,7 +37,7 @@ export const ProjectList = [
   {
     name: 'Notes App',
     image: Proj5,
-    skills: 'React, CSS',
+    skills: 'React.js, CSS',
     repo: 'https://github.com/PlanetofJay/my-note',
     url: 'https://planetofjay.github.io/my-note/',
   },
