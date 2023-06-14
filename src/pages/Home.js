@@ -42,7 +42,7 @@ export default function Home() {
 
           <li className='item'>
             <h2>Tools</h2>
-            <span>Jira | WordPress | Adobe XD | Adobe Illustrator</span>
+            <span>GitHub | Jira | WordPress | Adobe XD | Adobe Illustrator</span>
           </li>
         </ol>
       </div>
