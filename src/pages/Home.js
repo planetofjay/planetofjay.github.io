@@ -37,7 +37,7 @@ export default function Home() {
 
           <li className='item'>
             <h2>Skills</h2>
-            <span>React.js | Node.js | jQuery | Express</span>
+            <span>React.js | Node.js | jQuery | Express | MongoDB</span>
           </li>
 
           <li className='item'>
