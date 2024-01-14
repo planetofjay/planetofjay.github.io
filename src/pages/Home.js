@@ -13,10 +13,10 @@ export default function Home() {
       <div className='about'>
         {/* <img src={background} alt='background' className='homebg'/> */}
         {/* <video src={homeVideo} autoPlay loop muted /> */}
-        <h2>Hi, My Name is Jaejin L.</h2>
+        <h2>Hi, my name is Jaejin Lee</h2>
         <div className='prompt'>
           <p>
-            a Web Developer with a passion for learning, creating, solving, and developing.
+            Web Developer with a passion for learning, creating, solving, and developing
           </p>
         </div>
         <div className='icon'>

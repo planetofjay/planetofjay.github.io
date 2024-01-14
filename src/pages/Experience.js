@@ -10,20 +10,16 @@ export default function Experience() {
       <VerticalTimeline lineColor='#ffffffbf'>
         <VerticalTimelineElement
           className='vertical-timeline-element--education'
-          date='2023 - Present'
+          date='2023 - 2023'
           iconStyle={{ background: '#000', color: '#ffffffbf' }}
           icon={<WorkIcon />}
         >
           <h3 className='vertical-timeline-element-title'>
-            Software Developer Internship - GAOTek Inc.
+            GAOTek Inc., Toronto, Ontario - <i>Remote</i>
           </h3>
-          <h4 className='vertical-timeline-element-subtitle'>
-            Toronto, ON - remote
-          </h4>
           <ul>
-            <li>Created several small applications for SEO with WordPress</li>
-            <li>Managed employees of including scheduling, training and performance reviews</li>
-            <li>Trained new employees on company procedures and policies</li>
+            <li>Internship</li>
+            <li>Team Lead Software Developer</li>
           </ul>
         </VerticalTimelineElement>
 
@@ -37,10 +33,10 @@ export default function Experience() {
             Fanshawe College, London, Ontario
           </h3>
           <h4 className='vertical-timeline-element-subtitle'>
-            Associate in Science (A.S.)
+            Associate Degree in Science (A.S.)
           </h4>
           <ul>
-            <li>Majored in Web Development and Internet Applications</li>
+            <li>Major in Web Development and Internet Applications</li>
           </ul>
         </VerticalTimelineElement>
 
@@ -51,15 +47,11 @@ export default function Experience() {
           icon={<WorkIcon />}
         >
           <h3 className='vertical-timeline-element-title'>
-            Street Photographer - Freelance
+            Street Photographer, Freelance
           </h3>
-          <h4 className='vertical-timeline-element-subtitle'>
-            Everywhere
-          </h4>
           <ul>
-            <li>Exhibitions in South Korea and Belgium</li>
-            <li>Published and sold own photography book</li>
-            <li>Designed a book using Adobe InDesign</li>
+            <li>Exhibition in South Korea and Belgium</li>
+            <li>Design, publish and sell own photography books</li>
           </ul>
         </VerticalTimelineElement>
 
@@ -73,7 +65,7 @@ export default function Experience() {
             Induk University, Seoul, South Korea
           </h3>
           <ul>
-            <li>Majored in Architecture</li>
+            <li>Major in Architecture</li>
           </ul>
         </VerticalTimelineElement>
 
