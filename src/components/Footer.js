@@ -15,14 +15,14 @@ export default function Footer() {
         <a href='mailto:jae44dv@gmail.com'>
           <EmailIcon />
         </a>
-        <a href='https://instagram.com/ofjayl_/' target='_blank' rel="noreferrer">
+        <a href='https://instagram.com/jaejin1ee/' target='_blank' rel="noreferrer">
           <InstagramIcon />
         </a>
         <a href='https://facebook.com/jae4f/' target='_blank' rel="noreferrer">
           <FacebookIcon />
         </a>
       </div>
-      <p> &copy;2023 Jaejin Lee. All Rights Reserved.</p>
+      <p> &copy;2024 Jaejin Lee. All Rights Reserved.</p>
     </div>
   );
 }
